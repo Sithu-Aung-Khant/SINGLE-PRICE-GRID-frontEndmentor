@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [CLICK HERE](https://your-solution-url.com)
-- Live Site URL: [CLICK HERE](https://your-live-site-url.com)
+- Solution URL: [CLICK HERE](https://www.frontendmentor.io/solutions/single-price-grid-component-with-bootstrap-5-HVkaDS19LY)
+- Live Site URL: [CLICK HERE](https://single-price-grid-with-bootstrap-5.netlify.app/)
 
 ## Author
 
