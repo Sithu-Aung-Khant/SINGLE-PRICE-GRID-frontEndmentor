@@ -1,0 +1,19 @@
+// custom variables
+// $primary: hsl(31, 77%, 52%);
+
+// import the functions & variables
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$custom-theme-colors: (
+   "cyan": hsl(179, 62%, 43%),
+   "lt-cyan": hsl(179, 64%, 48%),
+    "yellow": hsl(71, 73%, 54%),
+    "gray": hsl(204, 43%, 93%),
+    "blue": hsl(218, 22%, 67%)
+);
+
+$theme-colors: map-merge($custom-theme-colors, $theme-colors);
+
+// import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
